@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RecyclerDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_data">No Description given</string>
+    <string name="enter_here">Enter Here</string>
+    <string name="save">Save</string>
+</resources>
