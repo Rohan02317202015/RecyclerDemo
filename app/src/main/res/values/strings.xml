@@ -4,4 +4,11 @@
     <string name="no_data">No Description given</string>
     <string name="enter_here">Enter Here</string>
     <string name="save">Save</string>
+    <string name="name">Name</string>
+    <string name="about_you">About You</string>
+    <string name="enter_name">Enter your name</string>
+    <string name="send">Send</string>
+    <string name="fname_lname">$1%s $2%s</string>
+    <string name="send_data">Send Data</string>
+    <string name="tell_us_about_you">Tell us about you</string>
 </resources>
